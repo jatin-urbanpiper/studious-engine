@@ -1,4 +1,3 @@
 Sample text.
 Edited File.
-Changes in local repository.
 Changed in remote repository.
