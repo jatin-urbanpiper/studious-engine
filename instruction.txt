@@ -1,3 +1,4 @@
 Sample text.
 Edited File.
 Changed in remote repository.
+Edited in sample-branch.
